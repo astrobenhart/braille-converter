@@ -1,3 +1,10 @@
+# Forked Copy
+
+planned changes in fork:
+    -add a Gui interface that is accessible.
+    -export a .brf file from .txt input
+    -general update to rules, words, ...
+
 # What is it?
 
 braille-converter is a program that converts English text to Fully
